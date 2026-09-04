@@ -27,11 +27,7 @@
 - ⚡ Fun fact **Call me as ADR**
 
 </td>
-<td width="45%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/avishkadr/avishkadr/main/developer-art.png" alt="Developer Art" width="100%"/>
-
-</td>
 </tr>
 </table>
 
