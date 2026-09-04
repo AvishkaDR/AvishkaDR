@@ -79,8 +79,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avishkadr&show_icons=true&locale=en&layout=compact" alt="avishkadr" />
-  <img src="https://github-readme-stats.vercel.app/api?username=avishkadr&show_icons=true&locale=en" alt="java" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishkadr&" alt="avishkadr" />
+  
 </p>
 
 </div>
